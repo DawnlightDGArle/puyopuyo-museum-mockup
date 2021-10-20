@@ -6,3 +6,8 @@ I wanted to recreate the site after coming across mention of it on Puyo Nexus an
 A link to the site currently live if you'd like to check out a live link to the mock up can be found here: https://puyopuyo-museum.netlify.app/
 
 I hope to expand upon this recreation in the future since I thought Erikku's work at the time was super cool and I want to bring that kind of magic back and restore as much of the site through a live mock up as possible so that way, more modern Puyo Puyo fans get a chance to easily access a relic of old Puyo history.
+
+
+##Screenshots of Project
+![Website Mock Up Screenshot] (https://github.com/DawnlightDGArle/puyopuyo-museum-mockup/blob/f5cfb795730423ad4998ba254e42c996e10208c2/Screenshot%202021-10-19%20210822.png "Puyo Puyo Museum Home Page Mock Up So Far")
+A screenshot of a mock up of the home page of the website so far
