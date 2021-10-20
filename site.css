@@ -1,0 +1,15 @@
+html {
+    font-family: arial;
+}
+
+#center {
+    position: absolute;
+    top: 10px;
+    left: 500px;
+    margin: 10px;
+}
+
+#box {
+    position: fixed;
+    right: 100px;
+}
